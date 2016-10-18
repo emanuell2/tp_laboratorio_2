@@ -1,0 +1,4 @@
+E:\Buono.Emanuel.2D\Entidades\bin\Debug\Entidades.dll
+E:\Buono.Emanuel.2D\Entidades\bin\Debug\Entidades.pdb
+E:\Buono.Emanuel.2D\Entidades\obj\Debug\Entidades.dll
+E:\Buono.Emanuel.2D\Entidades\obj\Debug\Entidades.pdb

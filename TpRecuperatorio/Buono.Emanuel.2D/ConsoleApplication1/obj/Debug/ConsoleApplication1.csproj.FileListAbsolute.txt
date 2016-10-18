@@ -1,0 +1,8 @@
+E:\Buono.Emanuel.2D\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Buono.Emanuel.2D\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Buono.Emanuel.2D\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Buono.Emanuel.2D\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Buono.Emanuel.2D\ConsoleApplication1\bin\Debug\Entidades.dll
+E:\Buono.Emanuel.2D\ConsoleApplication1\bin\Debug\Entidades.pdb
+E:\Buono.Emanuel.2D\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Buono.Emanuel.2D\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
